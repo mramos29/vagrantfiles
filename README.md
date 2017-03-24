@@ -1,4 +1,3 @@
-# vagrantfile
-Vagrantfiles repository 
+# Docker on Ubuntu Vagrantfile
 
-Some Vagrantfiles I've created...
+Just a simple Ubuntu box with docker installed.
